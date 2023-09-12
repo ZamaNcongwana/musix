@@ -158,12 +158,6 @@ $(document).ready(function()
 					duration:"4.20"
 				},
 				{
-					title:"Mama",
-					artist:"Msanezie",
-					mp3:"files/Mama.wav",
-					duration:"4.27"
-				},
-				{
 					title:"My Dali",
 					artist:"Zama x Smindlo x Last Born",
 					mp3:"files/My Dali.mp3",
